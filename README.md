@@ -1,6 +1,6 @@
 # Klon strony Netflix - Profile / Netflix - Profiles Clone
 
-## 🇵🇱 Opis projektu
+## PL Opis projektu
 
 Ten projekt to edukacyjna kopia strony z profilami serwisu Netflix, wykonana w celach nauki HTML, CSS. Projekt został stworzony wyłącznie do celów praktyki kodowania i nie jest powiązany z oficjalnym serwisem Netflix.
 
