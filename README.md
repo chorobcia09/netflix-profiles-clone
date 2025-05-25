@@ -8,7 +8,7 @@ Ten projekt to edukacyjna kopia strony z profilami serwisu Netflix, wykonana w c
 - HTML5
 - CSS3
 
-###  Demo
+### Demo
 [Zobacz wersję live](https://chorobcia09.github.io/netflix-profiles-clone/)
 
 ---
@@ -17,7 +17,7 @@ Ten projekt to edukacyjna kopia strony z profilami serwisu Netflix, wykonana w c
 
 This project is an educational copy of the Netflix profiles website, built for learning purposes using HTML, CSS. It was created solely for practice and is not affiliated with the official Netflix service in any way.
 
-###  Technologies
+### Technologies
 - HTML5
 - CSS3
 
