@@ -9,7 +9,7 @@ Ten projekt to edukacyjna kopia strony z profilami serwisu Netflix, wykonana w c
 - CSS3
 
 ###  Demo
-[Zobacz wersję live](https://twoj-login.github.io/nazwa-projektu/) *(jeśli opublikujesz przez GitHub Pages)*
+[Zobacz wersję live](https://chorobcia09.github.io/netflix-profiles-clone/)
 
 ---
 
@@ -22,4 +22,4 @@ This project is an educational copy of the Netflix profiles website, built for l
 - CSS3
 
 ### 🔗 Live Demo
-[View live version](https://your-username.github.io/project-name/) *(if published via GitHub Pages)*
+[View live version](https://chorobcia09.github.io/netflix-profiles-clone/)
