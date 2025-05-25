@@ -13,7 +13,7 @@ Ten projekt to edukacyjna kopia strony z profilami serwisu Netflix, wykonana w c
 
 ---
 
-## 🇬🇧 Project Description
+## EN Project Description
 
 This project is an educational copy of the Netflix profiles website, built for learning purposes using HTML, CSS. It was created solely for practice and is not affiliated with the official Netflix service in any way.
 
